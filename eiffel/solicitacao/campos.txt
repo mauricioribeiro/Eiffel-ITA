@@ -1,0 +1,27 @@
+Tração:
+ - Nsd [kN]
+ - Combinação:
+   - Normal
+   - Especiais / Construção
+   - Excepcionais
+
+Compressão:
+ - Nsd [kN]
+ - Combinação:
+   - Normal
+   - Especiais / Construção
+   - Excepcionais
+
+Flexão (x / y):
+ - Msd [kN.cm]
+ - Combinação:
+   - Normal
+   - Especiais / Construção
+   - Excepcionais
+
+Corte (x / y):
+ - Vsd [kN]
+ - Combinação:
+   - Normal
+   - Especiais / Construção
+   - Excepcionais
